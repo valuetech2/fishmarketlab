@@ -21,4 +21,10 @@ Width: This column represents the width of the fish. Like the other numerical va
 
 
 
+
+
+
+
+
+
 <img width="257" alt="2" src="https://github.com/valuetech2/fishmarketlab/assets/157943305/0f6cf1d0-5fb2-4415-85e2-898e7e3d86b3">
